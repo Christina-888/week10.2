@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.container__button {
+  margin-top: 5%;
+  padding: 1% 2%;
+  color: green; 
+  cursor: pointer;
+}
